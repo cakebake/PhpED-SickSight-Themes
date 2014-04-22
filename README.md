@@ -7,3 +7,5 @@ Download "*.editortheme" and import it by IDE Settings "Editor -> Editor theme -
 === SickSight-Dark.editortheme
 - Monokai ~ http://eclipsecolorthemes.org/?view=theme&id=52
 - Oblivion ~ http://eclipsecolorthemes.org/?view=theme&id=1
+=== SickSight-Light.editortheme
+- Notepad++ ~ http://notepad-plus-plus.org/
